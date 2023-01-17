@@ -75,12 +75,9 @@ Build the Docker Images, Prepare and Check the Docker Compose File:
 ## Developers
 
 The core development and architecture is driven by
-- [Matthias Böckmann](https://github.com/maboeckmann), [Fraunhofer IAIS](https://www.iais.fraunhofer.de/)
-- [Stefanie Koslowski](https://github.com/stefkoslowski), [Fraunhofer IAIS](https://www.iais.fraunhofer.de/)
+- [Matthias Böckmann](https://github.com/maboeckmann)
+- [Stefanie Koslowski](https://github.com/stefkoslowski)
 
 with significant contributions, comments, and support by
-- [Sebastian Bader](https://github.com/sebbader/), [Fraunhofer IAIS](https://www.iais.fraunhofer.de/)
+- [Sebastian Bader](https://github.com/sebbader/)
 
-## Contact
-
-[contact@ids.fraunhofer.de](mailto:contact@ids.fraunhofer.de)
